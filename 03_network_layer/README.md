@@ -1,1 +1,1 @@
-[](images/router_architecture.png)
+![](images/router_architecture.png)
